@@ -1,0 +1,17 @@
+.titulo {
+  background: rgb(52, 206, 180);
+}
+
+.productos {
+  margin: 0px 70px 0px 70px;
+}
+
+.tablaCarrito {
+  margin: 0px 30px 0px 30px;
+}
+
+#gastoTotal {
+  display: flex;
+  justify-content: space-between;
+  margin: 0px 30px 0px 30px;
+}
